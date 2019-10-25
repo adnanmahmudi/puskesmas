@@ -1,0 +1,2 @@
+<i class="icon-chevron-right"></i>
+http://getbootstrap.com/2.3.2/base-css.html#images
